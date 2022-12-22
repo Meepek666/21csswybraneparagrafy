@@ -6,3 +6,12 @@ p {
     background-color: red;
 }
 
+.bg {
+    background-color: blue;
+}
+      
+.opacity {
+        opacity: 0.5;
+}
+
+
